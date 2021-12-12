@@ -17,4 +17,4 @@ R의 기초적인 문법부터 활용까지를 정리한 repository 입니다.
   [6. Iterations](https://github.com/daeunni/All-about-R-/blob/main/7.%20for%2C%20while%2C%20if.md)     
   [7. Strings](https://github.com/daeunni/All-about-R-/blob/main/8.%20Strings.md)     
   [8. Dataframe format](https://github.com/daeunni/All-about-R-/blob/main/9.%20Dataframe%20format.md)     
-  9. Apply functions    
+  [9. Apply functions](https://github.com/daeunni/All-about-R-/blob/main/10.%20apply%20function.md)    
